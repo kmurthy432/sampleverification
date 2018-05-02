@@ -1,4 +1,5 @@
-package packages.sampleverification1;
+
+package FinalProject.CompleteStuff;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
